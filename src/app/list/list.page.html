@@ -4,24 +4,24 @@
       <ion-menu-button></ion-menu-button>
     </ion-buttons>
     <ion-title>
-      List
+      Classes
     </ion-title>
   </ion-toolbar>
 </ion-header>
-
-<ion-content>
-  <ion-list>
-    <ion-item *ngFor="let item of items">
-      <ion-icon [name]="item.icon" slot="start"></ion-icon>
-      {{item.title}}
-      <div class="item-note" slot="end">
-        {{item.note}}
-      </div>
-    </ion-item>
-  </ion-list>
-  <!--
-    <div *ngIf="selectedItem" padding>
-      You navigated here from <b>{{selectedItem.title }}</b>
-    </div>
-  -->
-</ion-content>
+  <ion-content >
+  <ion-grid>
+    <ion-row *ngFor="let desenho of personagens">
+    <ion-item  class="welcome-card">
+      <ion-thumbnail slot="start">
+      <img  [src]="desenho.imagem" alt="" />
+    </ion-thumbnail>
+    <ion-card-header color="dark">
+        <ion-card-title>{{desenho.classe}}</ion-card-title>
+    </ion-card-header>
+    <ion-card-content >
+        <p>{{desenho.caracteristica}}</p>
+    </ion-card-content>
+    </ion-item>  
+  </ion-row>
+  </ion-grid>
+  </ion-content>

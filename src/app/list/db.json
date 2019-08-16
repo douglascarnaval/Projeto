@@ -1,0 +1,126 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "classe": "Ninja",
+        "caracteristica": "O ninja ganha +40% dano físico.",
+        "imagem":"https://www.mobafire.com/images/avatars/kennen-classic.png"
+      },
+      {
+        "id": 2,
+        "classe": "Demônio",
+        "caracteristica": "Ataques possuem 30% de chance de queimar a mana do alvo, causando dano verdadeiro",
+        "imagem":"https://www.mobafire.com/images/avatars/aatrox-classic.png"
+      },
+      {
+        "id": 3,
+        "classe": "Dragão",
+        "caracteristica": "Dragões são imunes a dano mágico.",
+        "imagem":"https://www.mobafire.com/images/avatars/aurelion-sol-classic.png"
+      },
+      {
+        "id": 4,
+        "classe": "Glacial",
+        "caracteristica": "Ataques de glaciais possuem 25% de chance de atordoar o adversário por dois segundos.",
+        "imagem":"https://ddragon.leagueoflegends.com/cdn/4.2.1/img/champion/Ashe.png"
+      },
+      {
+        "id": 5,
+        "classe": "Robo",
+        "caracteristica": "Robos iniciam o combate com mana cheia.",
+        "imagem":"https://ddragon.leagueoflegends.com/cdn/9.15.1/img/champion/Blitzcrank.png"
+      },
+      {
+        "id": 6,
+        "classe": "Imperial",
+        "caracteristica": "Um imperial aleatório causa dano em dobro naquele round",
+        "imagem":"https://avaazdo.s3.amazonaws.com/original_5bdede30ca834.png"
+      },
+      {
+        "id": 7,
+        "classe": "Nobre",
+        "caracteristica": " Um aliado aleatório ganha 100 de armadura e recupera 35 de vida por ataque.",
+        "imagem":"https://vignette.wikia.nocookie.net/leagueoflegends/images/d/d2/FioraSquare.png/revision/latest?cb=20150726080332&path-prefix=pt-br"
+      },
+  
+      {
+        "id": 8,
+        "classe": "Pirata",
+        "caracteristica": "Recebem quatro de ouro adicionou no final do combate",
+        "imagem":"https://vignette.wikia.nocookie.net/leagueoflegends/images/f/fe/GangplankSquare.png/revision/latest?cb=20150828150542&path-prefix=pt-br"
+      },
+      {
+        "id": 9,  
+        "classe": "Fantasma",
+        "caracteristica": "Amaldiçoa uma unidade inimiga aleatória no inicio do combate, reduzindo seus pontos de vida para 100",
+        "imagem":"https://gamepedia.cursecdn.com/lolesports_gamepedia_en/4/4d/MordekaiserSquare.png"
+      },
+      {
+        "id": 10,
+        "classe": "Selvagem",
+        "caracteristica": "Unidades selvagens ganham cargas de velocidade de ataque (máximo de cinco cargas) por cada ataque. Cada carga dá 8% de velocidade de ataque",
+        "imagem":"https://www.mobafire.com/images/avatars/nidalee-classic.png"
+      },
+      {
+        "id": 11,
+        "classe": "Void",
+        "caracteristica": "Todos ataques do seu time ignoram 50% da armadura inimiga",
+        "imagem":"https://www.mobafire.com/images/avatars/reksai-classic.png"
+      },
+      {
+        "id": 12,
+        "classe": "Yordle",
+        "caracteristica": "Yordles possuem 20% de chance de esquivar de ataques",
+        "imagem":"https://www.esportspedia.com/lol/images/0/06/TristanaSquare.png"
+      },
+      {
+        "id": 13,
+        "classe": "Assassino",
+        "caracteristica": "Assassinos causam dano crítico aumentado em +150%",
+        "imagem":"https://www.mobafire.com/images/avatars/zed-classic.png"
+      },
+      {
+        "id": 14,
+        "classe": "Mestres das Lâminas",
+        "caracteristica": "Mestres das lâminas possuem 35% de chance de causar um ataque duplo",
+        "imagem":"https://www.mobafire.com/images/avatars/shen-classic.png"
+      }, {
+        "id": 15,
+        "classe": "Lutador",
+        "caracteristica": "Lutadores recebem 300 pontos de vida adicional",
+        "imagem":"https://www.mobafire.com/images/avatars/volibear-classic.png"
+      }, {
+        "id": 16,
+        "classe": "Elementalista",
+        "caracteristica": "Invocam um elemental no início da rodada.",
+        "imagem":"https://www.mobafire.com/images/avatars/brand-classic.png"
+      }, {
+        "id": 17,
+        "classe": "Guardião",
+        "caracteristica": "No início do combate, guardiões e aliados adjacentes recebem +30 de armadura.",
+        "imagem":"https://www.mobafire.com/images/avatars/braum-classic.png"
+      }, {
+        "id": 18,
+        "classe": "Pistoleiro",
+        "caracteristica": "Após cada ataque, atiradores tem 50% de chance de atacar imediatamente um outro alvo aleatório.",
+        "imagem":"https://ddragon.leagueoflegends.com/cdn/4.7.8/img/champion/MissFortune.png"
+      }, {
+        "id": 19,
+        "classe": "Arqueiro",
+        "caracteristica": " A cada três segundos, arqueiros tem 25% de chance de dobrar a sua velocidade de ataque por três segundos.",
+        "imagem":"https://www.mobafire.com/images/avatars/varus-classic.png"
+      }, {
+        "id": 20,
+        "classe": "Metamorfo",
+        "caracteristica": "Metamorfos ganham 100% de vida extra quando transformam.",
+        "imagem":"https://www.mobafire.com/images/avatars/shyvana-classic.png"
+      },
+      {
+        "id": 21,
+        "classe": "Feiticeiro",
+        "caracteristica": "Todos aliados ganham +35 de dano mágico",
+        "imagem":"https://www.mobafire.com/images/avatars/veigar-classic.png"
+      }
+    ]
+  }
+  
